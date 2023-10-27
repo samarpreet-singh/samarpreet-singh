@@ -165,6 +165,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/samarpreet-singh/samarpreet-singh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/samarpreet-singh/samarpreet-singh/blob/output/github-contribution-grid-snake.svg)
 ###
