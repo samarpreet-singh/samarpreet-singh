@@ -18,103 +18,103 @@ I hope you enjoy your stay while looking at my portfolio! :)
 
 
 <div align="left">
-  <span style="margin-left: 5px;">Java</span>
+  <span>Java</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Selenium</span>
+  <span>Selenium</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">JavaScript</span>
+  <span>JavaScript</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">TypeScript</span>
+  <span>TypeScript</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">React</span>
+  <span>React</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Node.js</span>
+  <span>Node.js</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">MySQL</span>
+  <span>MySQL</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">MSSQL</span>
+  <span>MSSQL</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">MongoDB</span>
+  <span>MongoDB</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">C#</span>
+  <span>C#</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">.NET Core</span>
+  <span>.NET Core</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">.NET</span>
+  <span>.NET</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Kotlin</span>
+  <span>Kotlin</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Cucumber</span>
+  <span>Cucumber</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Python</span>
+  <span>Python</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">C++</span>
+  <span>C++</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">HTML</span>
+  <span>HTML</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">CSS</span>
+  <span>CSS</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Bootstrap</span>
+  <span>Bootstrap</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">PHP</span>
+  <span>PHP</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">jQuery</span>
+  <span>jQuery</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">AWS</span>
+  <span>AWS</span>
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Git</span>
+  <span>Git</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">GitLab</span>
+  <span>GitLab</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">GitHub</span>
+  <span>GitHub</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Docker</span>
+  <span>Docker</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Apache Maven</span>
+  <span>Apache Maven</span>
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Jira</span>
+  <span>Jira</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Postman</span>
+  <span>Postman</span>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Linux</span>
+  <span>Linux</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">Eclipse</span>
+  <span>Eclipse</span>
   <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">IntelliJ</span>
+  <span>IntelliJ</span>
   <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
   <img width="12" />
-  <span style="margin-left: 5px;">VSCode</span>
+  <span>VSCode</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
