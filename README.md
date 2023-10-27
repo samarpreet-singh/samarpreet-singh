@@ -1,26 +1,19 @@
 <h2 align="left">Hello👋! Thank you for visiting my GitHub profile :)</h2>
 
-###
-
 <h4 align="left">My name is Samar, I'm a QA Automation Developer and a Software/Web Developer!</h4>
 
-###
 
 <h2 align="left">💫What I Do:</h2>
 
-###
 
 <p align="left">I bring value to teams engaged in Software/Web Development and/or QA. I'm an experienced IT professional with extensive skillset and almost 1 year of experience in Software, Web, and Solutions Development, along with QA experience in Manual and Automated Test Development for applications.<br><br>I have working experience in SDLC/STLC and methodologies such as Agile/Scrum as well.<br><br>I am quite eager to bring my technical skills and infectious positive energy to make a difference to an inclusive, focused, and passionate workplace.<br><br>I hope you enjoy your stay while looking at my portfolio! :)</p>
 
-###
 
 <h2 align="left">💻Programming Languages, Frameworks, & Tools:</h2>
 
-###
 
 <img align="right" height="155" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
 
-###
 
 <div align="left">
   <span style="margin-left: 5px;">Java</span>
@@ -123,17 +116,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
 
 <br clear="both">
 
 <p align="left">Prominent Coursework/Additional Skills:<br><br>• Data Structures and Algorithms, Agile/Scrum and Waterfall Development, Advanced Object-Oriented Programming,<br><br>• Web Development: ASP.NET, Entity Framework, REST APIs, JSON, XML.<br><br>• Discrete Mathematics for the Computer Industry: Karnaugh Maps, IEEE Storage Standards, Advanced set theory, Binary Trees, Logic Gates, Scientific Notation.<br><br>• Systems Analysis: SDLC, UML, Solutions Design, Data Flow/Entity Relationship Diagrams, Documentation.<br><br>• Cloud Computing: AWS fundamentals, Infrastructure as a Service, Performance Efficiency.<br><br>• The Mainframe Environment: Job Control Language, File Structures, Job Entry, IBM Mainframe.<br><br>• MVC, Maven, CI/CD, Cross-Browser Development, Serenity BDD, VBScript, Cobol, XSL, XSLT, UFT.</p>
 
-###
 
 <h2 align="left">🌐Contact Me @:</h2>
 
-###
 
 <div align="left">
   <a href="https://linkedin.com/in/samarpreet" target="_blank">
@@ -152,18 +142,14 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-### 
+ 
 
 <h2 align="left">✍️ Relatable Quote:</h2>
 
-###
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
 
 <br clear="both">
 
 ![Snake animation](https://github.com/samarpreet-singh/samarpreet-singh/blob/output/github-contribution-grid-snake.svg)
-###
