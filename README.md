@@ -149,4 +149,4 @@ I hope you enjoy your stay while looking at my portfolio! :)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-![Snake animation](https://github.com/samarpreet-singh/samarpreet-singh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/samarpreet-singh/samarpreet-singh/blob/output/github-contribution-grid-snake1.svg)
