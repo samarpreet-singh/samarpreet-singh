@@ -142,6 +142,6 @@ I hope you enjoy your stay while looking at my portfolio! :)
 </div>
 
 
-## ✍️ Relatable Quote:
+## ✍️ Fun IT Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
