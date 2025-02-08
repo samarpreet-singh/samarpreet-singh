@@ -1,10 +1,10 @@
 ## Hello👋! Thank you for visiting my GitHub profile :)
 
-#### My name is Samar, I'm a QA Automation Developer and a Software/Web Developer!
+#### You may call me Sam, I'm a professional in the IT space with a varied skill set.
 
 ## 💫What I Do:
 
-I bring value to teams engaged in Software/Web Development and/or QA. I'm an experienced IT professional with extensive skillset and almost 1 year of experience in Software, Web, and Solutions Development, along with QA experience in Manual and Automated Test Development for applications.
+I bring value to teams engaged in robust Software/Web Development, Quality Assurance/Testing, IT Operations Support, and many more fields in IT!
 
 I have working experience in SDLC/STLC and methodologies such as Agile/Scrum as well.
 
